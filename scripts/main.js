@@ -1,1 +1,4 @@
-alert("hello js!")
+let name = "Джон"
+let admin = name
+alert(admin)
+
